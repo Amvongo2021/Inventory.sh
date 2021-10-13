@@ -2,7 +2,7 @@
 
 
 ## DESCRIPTION: SYSTEM INVENTORY
-## AUTHOR: Amvongo
+## AUTHOR: Amvongo2021
 
 echo "This is my first system inventory"
 
