@@ -4,7 +4,7 @@
 ## DESCRIPTION: SYSTEM INVENTORY
 ## AUTHOR: Amvongo2021
 
-echo "This is my first system inventory"
+echo "This is "big 3" system inventory"
 
 echo -e "\nchecking cpu info\n"
 sleep 3
